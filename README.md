@@ -1,12 +1,14 @@
 
 # Hi there! 👋
 
-I'm Kolawole Dolapo, also known as Stephwalt04.
+I'm Kolawole Dolapo, glad to have you here.
 
 ## About Me
+I am a full stack developer that has worked on several projects, and I am looking to collaborate with you.
+I write HTML, CSS, Bootstrap, JavaScript, SQL, MYSQL, NodeJs, and ExpressJs.
 
-- 👀 I'm interested in Software Development.
-- 🌱 Currently learning Web FullStack.
+- 👀 I'm interested in Software Development roles (front end or backend).
+- 🌱 Currently updating my FullStack skills.
 - 💞️ I’m looking to collaborate on interesting projects.
 
 ## Contact Me
