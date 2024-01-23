@@ -1,7 +1,7 @@
 
 # Hi there! 👋
 
-I'm Kolawole Dolapo, glad to have you here.
+I'm Dolapo Kolawole, glad to have you here.
 
 ## About Me
 I am a full stack developer that has worked on several projects, and I am looking to collaborate with you.
