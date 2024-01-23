@@ -16,7 +16,7 @@ I write HTML, CSS, Bootstrap, JavaScript, SQL, MYSQL, NodeJs, and ExpressJs.
 Feel free to reach out! You can connect with me on:
 
 - GitHub: [@Stephwalt04](https://github.com/Stephwalt04)
-- LinkedIn: [KolawoleDolapo](https://www.linkedin.com/in/kolawole-dolapo-963a37242/)
+- LinkedIn: [KolawoleDolapo](https://www.linkedin.com/in/dolapokolawole/)
 - Email:kolawoledolapo115@gmail.com
 
 Let's build something amazing together! 🚀
