@@ -5,7 +5,7 @@ I'm Dolapo Kolawole, glad to have you here.
 
 ## About Me
 I am a full stack developer that has worked on several projects, and I am looking to collaborate with you.
-I write HTML, CSS, Bootstrap, JavaScript, SQL, MYSQL, NodeJs, and ExpressJs.
+I write HTML, CSS, Bootstrap, JavaScript, SQL, MYSQL, NodeJs,React and ExpressJs.
 
 - 👀 I'm interested in Software Development roles (front end or backend).
 - 🌱 Currently updating my FullStack skills.
